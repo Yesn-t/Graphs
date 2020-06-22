@@ -1,0 +1,8 @@
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\bin\Debug\Act 1.exe.config
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\bin\Debug\Act 1.exe
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\bin\Debug\Act 1.pdb
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\obj\Debug\Act 1.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\obj\Debug\Act 1.exe
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\obj\Debug\Act 1.pdb
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\obj\Debug\Act_1.MainForm.resources
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 1\Act 1\obj\Debug\Act 1.csproj.GenerateResource.Cache

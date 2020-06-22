@@ -1,0 +1,66 @@
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\bin\Debug\Act 3.exe.config
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\bin\Debug\Act 3.exe
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\bin\Debug\Act 3.pdb
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\obj\Debug\Act 3.exe
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 3\Act 1\obj\Debug\Act 3.pdb
+C:\Users\Usuario\Downloads\Act 3\Act 1\bin\Debug\Act 3.exe.config
+C:\Users\Usuario\Downloads\Act 3\Act 1\bin\Debug\Act 3.exe
+C:\Users\Usuario\Downloads\Act 3\Act 1\bin\Debug\Act 3.pdb
+C:\Users\Usuario\Downloads\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+C:\Users\Usuario\Downloads\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\Act 3\Act 1\obj\Debug\Act 3.exe
+C:\Users\Usuario\Downloads\Act 3\Act 1\obj\Debug\Act 3.pdb
+D:\Perosn\Act 3\Act 1\bin\Debug\Act 3.exe.config
+D:\Perosn\Act 3\Act 1\bin\Debug\Act 3.exe
+D:\Perosn\Act 3\Act 1\bin\Debug\Act 3.pdb
+D:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+D:\Perosn\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+D:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+D:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csproj.CoreCompileInputs.cache
+D:\Perosn\Act 3\Act 1\obj\Debug\Act 3.exe
+D:\Perosn\Act 3\Act 1\obj\Debug\Act 3.pdb
+C:\Users\Usuario\Pictures\Act 3\Act 1\bin\Debug\Act 3.exe.config
+C:\Users\Usuario\Pictures\Act 3\Act 1\bin\Debug\Act 3.exe
+C:\Users\Usuario\Pictures\Act 3\Act 1\bin\Debug\Act 3.pdb
+C:\Users\Usuario\Pictures\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Pictures\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+C:\Users\Usuario\Pictures\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+C:\Users\Usuario\Pictures\Act 3\Act 1\obj\Debug\Act 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\Act 3\Act 1\obj\Debug\Act 3.exe
+C:\Users\Usuario\Pictures\Act 3\Act 1\obj\Debug\Act 3.pdb
+E:\Perosn\Act 3\Act 1\bin\Debug\Act 3.exe.config
+E:\Perosn\Act 3\Act 1\bin\Debug\Act 3.exe
+E:\Perosn\Act 3\Act 1\bin\Debug\Act 3.pdb
+E:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+E:\Perosn\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+E:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+E:\Perosn\Act 3\Act 1\obj\Debug\Act 3.exe
+E:\Perosn\Act 3\Act 1\obj\Debug\Act 3.pdb
+C:\Users\Usuario\Desktop\Act 3\Act 1\bin\Debug\Act 3.exe.config
+C:\Users\Usuario\Desktop\Act 3\Act 1\bin\Debug\Act 3.exe
+C:\Users\Usuario\Desktop\Act 3\Act 1\bin\Debug\Act 3.pdb
+C:\Users\Usuario\Desktop\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+C:\Users\Usuario\Desktop\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Act 3\Act 1\obj\Debug\Act 3.exe
+C:\Users\Usuario\Desktop\Act 3\Act 1\obj\Debug\Act 3.pdb
+F:\Perosn\Act 3\Act 1\bin\Debug\Act 3.exe.config
+F:\Perosn\Act 3\Act 1\bin\Debug\Act 3.exe
+F:\Perosn\Act 3\Act 1\bin\Debug\Act 3.pdb
+F:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+F:\Perosn\Act 3\Act 1\obj\Debug\Act_1.MainForm.resources
+F:\Perosn\Act 3\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+F:\Perosn\Act 3\Act 1\obj\Debug\Act 3.exe
+F:\Perosn\Act 3\Act 1\obj\Debug\Act 3.pdb
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\bin\Debug\Act 3.exe.config
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\bin\Debug\Act 3.exe
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\bin\Debug\Act 3.pdb
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\obj\Debug\Act 3.csprojResolveAssemblyReference.cache
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\obj\Debug\Act_1.MainForm.resources
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\obj\Debug\Act 3.csproj.GenerateResource.Cache
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\obj\Debug\Act 3.exe
+E:\Perosn\Act 3 - Impresion c20 puntos\Act 1\obj\Debug\Act 3.pdb

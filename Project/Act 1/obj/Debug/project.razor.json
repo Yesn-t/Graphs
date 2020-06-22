@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Perosn\\Act 4\\Act 1\\Act 4.csproj",
+  "TargetFramework": "v4.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

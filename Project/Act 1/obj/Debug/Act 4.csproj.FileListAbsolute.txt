@@ -1,0 +1,17 @@
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\bin\Debug\Act 4.exe.config
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\bin\Debug\Act 4.exe
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\bin\Debug\Act 4.pdb
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\obj\Debug\Act 4.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\obj\Debug\Act_1.MainForm.resources
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\obj\Debug\Act 4.csproj.GenerateResource.Cache
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\obj\Debug\Act 4.exe
+C:\Users\EndUser\Documents\SharpDevelop Projects\Act 4\Act 1\obj\Debug\Act 4.pdb
+D:\Perosn\Act 4\Act 1\bin\Debug\Act 4.exe.config
+D:\Perosn\Act 4\Act 1\bin\Debug\Act 4.exe
+D:\Perosn\Act 4\Act 1\bin\Debug\Act 4.pdb
+D:\Perosn\Act 4\Act 1\obj\Debug\Act 4.csprojResolveAssemblyReference.cache
+D:\Perosn\Act 4\Act 1\obj\Debug\Act_1.MainForm.resources
+D:\Perosn\Act 4\Act 1\obj\Debug\Act 4.csproj.GenerateResource.Cache
+D:\Perosn\Act 4\Act 1\obj\Debug\Act 4.csproj.CoreCompileInputs.cache
+D:\Perosn\Act 4\Act 1\obj\Debug\Act 4.exe
+D:\Perosn\Act 4\Act 1\obj\Debug\Act 4.pdb
